@@ -1,0 +1,22 @@
+{
+  "name": "quickshot",
+  "version": "1.0.0",
+  "description": "Quickshot - быстрая нарезка экрана",
+  "main": "Quickshot.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baklai/quickshot.git"
+  },
+  "keywords": [
+    "Delphi"
+  ],
+  "author": "Dmitrii Baklai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baklai/quickshot/issues"
+  },
+  "homepage": "https://github.com/baklai/quickshot#readme"
+}
